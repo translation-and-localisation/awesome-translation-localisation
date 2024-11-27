@@ -42,6 +42,7 @@ Communities actively involved in localisation efforts for various languages and 
 - [Data Umbrella PyMC Sprint](https://pymc-data-umbrella.xyz)
 - [AfricarXiv / Masakhane](https://www.masakhane.io/ongoing-projects/masakhane-mt-decolonise-science)
 - [LIBRE hub](https://librehub.github.io/)
+- [Chiense Open Science Network](https://github.com/OpenSci-CN)
 
 ## Documented Problems & Workarounds
 
