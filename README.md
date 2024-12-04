@@ -43,6 +43,7 @@ Communities actively involved in localisation efforts for various languages and 
 - [AfricarXiv / Masakhane](https://www.masakhane.io/ongoing-projects/masakhane-mt-decolonise-science)
 - [LIBRE hub](https://librehub.github.io/)
 - [Chiense Open Science Network](https://github.com/OpenSci-CN)
+- [Localization Lab: Glossaries](https://www.localizationlab.org/glossaries)
 
 ## Documented Problems & Workarounds
 
