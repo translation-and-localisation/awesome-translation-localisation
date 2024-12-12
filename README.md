@@ -16,6 +16,7 @@
 A collection of guides and materials to help you get started or improve localisation and translation efforts in open-source projects.
 
 - [How to Localise Open Source Tools - The Turing Way](https://the-turing-way.netlify.app/community-handbook/translation)
+- [Localization Lab: Glossaries](https://www.localizationlab.org/glossaries)
 - [Additional Resource](http://example.com)
 
 ## Tools
@@ -36,13 +37,16 @@ Communities actively involved in localisation efforts for various languages and 
 - [Open Science Saudi Arabia](https://osc-ksa.com/)
 - [Open Life Science - Arabic, Spanish, African contexts](https://openlifesci.org/)
 - [The Turing Way](https://the-turing-way.netlify.app/index.html)
+- [Data Umbrella PyMC Sprint](https://pymc-data-umbrella.xyz)
 - [Galaxy Training Network](https://training.galaxyproject.org/)
 - [MetaDocencia](https://www.metadocencia.org/)
 - [MBOA Lab: French, English](https://mboalab.net)
-- [Data Umbrella PyMC Sprint](https://pymc-data-umbrella.xyz)
 - [AfricarXiv / Masakhane](https://www.masakhane.io/ongoing-projects/masakhane-mt-decolonise-science)
 - [LIBRE hub](https://librehub.github.io/)
-- [Chiense Open Science Network](https://github.com/OpenSci-CN)
+- [Chinese Open Science Network](https://github.com/OpenSci-CN)
+- [Scientific Python](https://scientific-python-translations.github.io/translate/)
+    - [CZI grant](https://blog.scientific-python.org/scientific-python/2022-czi-grant/)
+[Python documentation translations](https://devguide.python.org/documentation/translating/)
 
 ## Documented Problems & Workarounds
 
